@@ -41,6 +41,12 @@ This will display help for the tool.
 
 ## Installation
 
+GoScope requires sqlite3 for the database
+
+```sh
+▶ sudo apt install sqlite3
+```
+
 GoScope requires **go1.17+** to install successfully. Run the following command to get the repo -
 
 ```sh
